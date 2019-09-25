@@ -48,7 +48,7 @@ public class SinglePlayerGame {
                   
               }
               else if(lancer == 10 && nblancer>=20){
-                  score += lancer;
+                  score += lancer; 
               }
               else{
                   
